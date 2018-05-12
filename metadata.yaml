@@ -1,0 +1,30 @@
+_repo: Inventors_38782
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38782-h/images/cover.png
+creator:
+  author:
+    agent_name: Hubert, Philip Gengembre
+    birthdate: 1852
+    deathdate: 1925
+    gutenberg_agent_id: '39649'
+    url: http://www.gutenberg.org/2009/agents/39649
+description: ''
+gutenberg_issued: '2012-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38782'
+  lccn: 04017094
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Inventors'
+tableOfContents: Benjamin Franklin -- Robert Fulton -- Eli Whitney -- Elias Howe --
+  Samuel F. B. Morse -- Charles Goodyear -- John Ericsson -- Cyrus Hall McCormick
+  -- Thomas A. Edison -- Alexander Graham Bell -- American inventors, past and present.
+title: Inventors
+url: http://www.gutenberg.org/ebooks/38782
