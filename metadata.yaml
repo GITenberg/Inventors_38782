@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'T'
 - !lcsh 'Inventors'
+- GITenberg
 tableOfContents: Benjamin Franklin -- Robert Fulton -- Eli Whitney -- Elias Howe --
   Samuel F. B. Morse -- Charles Goodyear -- John Ericsson -- Cyrus Hall McCormick
   -- Thomas A. Edison -- Alexander Graham Bell -- American inventors, past and present.
